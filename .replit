@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 language = "cpp"
 run = "g++"
+=======
+language = "bash"
+run = ""
+>>>>>>> 1b32c4b62ea91e75fc3fc29e00565bfd3a22cd10
