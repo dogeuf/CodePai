@@ -4,7 +4,7 @@ import java.awt.*;
 public class Globo{
     private int diametro;
     private int xCoord, yCoord;
-    public Globo (int diametroInicial, int xInicial, int
+     public Globo (int diametroInicial, int xInicial, int
             yInicial) {
         diametro = diametroInicial;
         xCoord = xInicial;
